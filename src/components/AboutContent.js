@@ -15,11 +15,14 @@ const AboutContent = () => {
           seamless user experiences and writing clean, efficient code to bring
           ideas to life.
         </p>
-        <Link to="/contact">
-          <button className="btn">Contact</button>
-        </Link>
+        <a
+          href="https://drive.google.com/file/d/1Jm_fq0mJn5M9f3EByyR2Qlmesq8IzNEA/view?usp=sharing"
+          download
+          className="btn"
+        >
+          Download CV
+        </a>
       </div>
-
       <div className="right">
         <div className="img-container">
           <div className="img-stack top">
