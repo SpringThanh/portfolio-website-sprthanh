@@ -16,7 +16,7 @@ const AboutContent = () => {
           ideas to life.
         </p>
         <a
-          href="https://drive.google.com/file/d/1Jm_fq0mJn5M9f3EByyR2Qlmesq8IzNEA/view?usp=sharing"
+          href="https://drive.google.com/file/d/1dX3e7c1a2QCRHwYuKFYWKoU_KyhegZ7a/view?usp=sharing"
           download
           className="btn"
         >
